@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gitlab.atomfrede",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.5.0",
+    "applicationType": "monolith",
+    "baseName": "loginpagesample",
+    "packageName": "com.gitlab.atomfrede",
+    "packageFolder": "com/gitlab/atomfrede",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODg4MjUxYjI5YzdmYWVhNTRmN2U3ZWIzODAwNGJkZmI2NDM1ZWRmNDIxODM1YWQyODEyMjFiOTRlMGY0YmFkYmQ5ZTMwYzI4MWEyNzE5NGNhOTRlNTNhZTA4MjBlZjE5NGE1NmQ2YTdjYmMwZWY4M2RlMjNhYmMzMTBmY2QwNjU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr", "de"],
+    "blueprints": []
+  }
+}
